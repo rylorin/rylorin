@@ -1,6 +1,6 @@
 ### 👋 Hi there,
 
-I'm Ronan-Yann Lorin, actuarial consultant in Paris!
+I'm Ronan-Yann Lorin, purchaser in Paris!
 
 ### ⚡ My Languages
 [![My Skills](https://skillicons.dev/icons?i=java,bash,c,cpp,py,r,scala)](https://skillicons.dev)

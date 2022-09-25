@@ -1,6 +1,6 @@
 ### 👋 Hi there,
 
-I'm Ronan-Yann Lorin, purchaser in Paris!
+I'm Ronan-Yann Lorin, purchaser in Paris and programming as a hobby.
 
 ### ⚡ My Languages
 [![My Skills](https://skillicons.dev/icons?i=java,bash,c,cpp,py,r,scala)](https://skillicons.dev)

@@ -14,9 +14,8 @@ I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 ### 📫 Available On
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rylorin)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/rylorin/](https://www.linkedin.com/in/ronan-yann-lorin-442125/))
-<!--
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/249908751052570635)
--->
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/467417724373696512)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,10 +27,10 @@ I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 - ⚡ Fun fact: ...
 -->
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/467417724373696512?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/467417724373696512)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/467417724373696512)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/467417724373696512)
 
 <details>
   <summary>Github Stats ⚡</summary>

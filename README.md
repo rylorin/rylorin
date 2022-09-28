@@ -13,7 +13,7 @@ I'm Ronan-Yann Lorin, purchaser in Paris and programming as a hobby.
 
 ### 📫 Available On
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rylorin)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rylorin/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/rylorin/](https://www.linkedin.com/in/ronan-yann-lorin-442125/))
 <!--
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/249908751052570635)
 -->

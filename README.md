@@ -3,7 +3,7 @@
 I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 
 ### ⚡ My Languages
-[![My Skills](https://skillicons.dev/icons?i=java,bash,c,cpp,py,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,bash,ts,cpp,py,js,php)](https://skillicons.dev)
 
 ### 🌱 I want to learn
 [![Wanna learn](https://skillicons.dev/icons?i=rust,vue,react,electron,express,githubactions)](https://skillicons.dev)
@@ -30,7 +30,7 @@ I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/467417724373696512?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/467417724373696512)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/467417724373696512)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/467417724373696512)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/467417724373696512)](https://dev.discordprofiles.me/openspotify/467417724373696512)
 
 <details>
   <summary>Github Stats ⚡</summary>

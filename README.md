@@ -3,18 +3,18 @@
 I'm Ronan-Yann Lorin, purchaser in Paris and programming as a hobby.
 
 ### ⚡ My Languages
-[![My Skills](https://skillicons.dev/icons?i=java,bash,c,cpp,py,r,scala)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,bash,c,cpp,py,js,php)](https://skillicons.dev)
 
 ### 🌱 I want to learn
-[![Wanna learn](https://skillicons.dev/icons?i=rust,go,kotlin,dart)](https://skillicons.dev)
+[![Wanna learn](https://skillicons.dev/icons?i=rust,vue,react,electron,express,githubactions)](https://skillicons.dev)
 
 ### 🔭 My Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,ansible,github,gitlab,mysql,neovim,vscode,gcp,raspberrypi,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,github,mysql,vscode,nodejs,symfony)](https://skillicons.dev)
 
 ### 📫 Available On
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rylorin)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rylorin/)
 <!--
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/androw/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/249908751052570635)
 -->
 <!--

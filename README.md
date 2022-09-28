@@ -27,7 +27,7 @@ I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=SilenteyeDev&style=flat-square)
+![](https://komarev.com/ghpvc/?username=rylorin&style=flat-square)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/467417724373696512?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/467417724373696512)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/467417724373696512)

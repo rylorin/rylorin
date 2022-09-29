@@ -3,13 +3,13 @@
 I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 
 ### ⚡ My Languages
-[![My Skills](https://skillicons.dev/icons?i=java,bash,ts,cpp,py,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,php,py,js,bash,java,cpp)](https://skillicons.dev)
 
 ### 🌱 I want to learn
-[![Wanna learn](https://skillicons.dev/icons?i=rust,vue,react,electron,express,githubactions)](https://skillicons.dev)
+[![Wanna learn](https://skillicons.dev/icons?i=githubactions,express,electron,vue,react,rust)](https://skillicons.dev)
 
 ### 🔭 My Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,github,mysql,vscode,nodejs,symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,github,vscode,nodejs,symfony,mysql)](https://skillicons.dev)
 
 ### 📫 Available On
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rylorin)

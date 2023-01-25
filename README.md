@@ -3,7 +3,7 @@
 I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 
 ### ⚡ My Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,php,py,js,bash,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,php,py,bash,java,cpp)](https://skillicons.dev)
 
 ### 🌱 I want to learn
 [![Wanna learn](https://skillicons.dev/icons?i=githubactions,express,electron,vue,react,rust)](https://skillicons.dev)

@@ -33,9 +33,4 @@ I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/467417724373696512)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/467417724373696512)](https://dev.discordprofiles.me/openspotify/467417724373696512)
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rylorin&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rylorin&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+![Metrics](/github-metrics.svg)

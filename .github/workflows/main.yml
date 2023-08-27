@@ -16,3 +16,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Paris
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_stars: yes
+          plugin_activity: yes
+          plugin_repositories: yes
+          plugin_people: yes
+          plugin_lines: yes

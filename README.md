@@ -7,7 +7,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-100000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC07dIDBiek-GYf8wGvKqTTQ)
 [![Discord](https://img.shields.io/badge/Discord-100000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://discordapp.com/users/467417724373696512)
 
-### 👋 Hi there,
+### 👋 Hi there
 
 I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
 

@@ -23,5 +23,7 @@ jobs:
           plugin_activity: yes
           plugin_repositories: no
           plugin_people: yes
+          plugin_people_types: followers
           plugin_lines: yes
           plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 8584152

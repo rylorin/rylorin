@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1592" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1717" class="large">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 7 users
+                            Followed by 6 users
                         </div>
                     </section>
                     <section>
@@ -32,17 +32,17 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            58 issue comments
+                            62 issue comments
                         </div>
                     </section>
                     <section>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    195 MB used
+                                    196 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,12 +302,6 @@
                             </svg>
                             Commits streaks
                         </h3>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 3 days
-                        </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
@@ -1312,6 +1306,13 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1320,12 +1321,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    7 followers
+                    6 followers
                 </h2>
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgMFB//EACwQAAICAQMDAgQHAQAAAAAAAAECAwQFABIhBhExE0EyUWGRFiIzQ1Kh0fD/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIhAxETMf/aAAwDAQACEQMRAD8AQ1MFHLXrqYUlMQ/L6ig9vv40evWKM2UCR5eIXIP2ZS7oOx45P+6QdQ5d8XMIk7iONQ7bffQbJZnpy1la82OwsUl20xSwGm9N2H8+CAPt76zuEU3L5fs26Yq0LGNt/iazHLfsSyAyCVgEjfjYH47A88fXXKeuquGpdVX61Ok9qKN/1ZJRyx5Pbjx3J0pyuNzWPvV5+nIjNSm77ovVEhTzwR8vA41fIdNMZ1lixjxmZRI8YX4W8Ef1pPomqJgWt1r6djL7UJ2IuyTboFlMBLG4krxoUVt4YDnW1DZlmtO8jd2Zj3Or1mZrjR7mCbPAY/XR8DoCQ73XxNl6WNSUzF5AQ6j38e//AHy0/wALmVSivryBGZi20r4B0OxVSJ5V3gtwfiPfWRNM0tqxv7HZIUX6Aar3TS//2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwj/xAApEAABAwMCBQQDAQAAAAAAAAABAgMEAAURBhIHEyIxYRRBcaEhMoEW/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUABAb/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBIFESMh/9oADAMBAAIRAxEAPwCmT5bNtgSJsg4aZbLiv5SFZ9L/AOykrveoFlC5CQWYrRwGm8dGfPvRDjLLbi6IfaXne+4hCceDk/Qrawx0MojTY76+U9HADYSMDo+M06yVApYyxj1hz9iva5z+h9ZIsa1Lk2iW4kJCjktbzjI/veqw5G6u1QnizFTYr9an253NkkFz9QNmFgjt8/VdB2p9u72uHPjuJSl9pKiEqyAcfms8fRQ0GwauRIrxh1nYLlpwwIUj1UjmhY2tkBOPJFDOEN5duVsXDlNrkemOxr84KUn2+KjlxcUpw5NF+HOorhp/UrDlvcSEvnlutrTuQsZ9xT3kbClRVZKH1buFuKz0xvWb6bpnoCAyUfpy/H3TbprjNdLHZItuhwLUplhO1Knm1b1eT1VOeId6mXzWEp6cUbkL5KAhO0JQOwFBN5pLWPMdwHOzkz//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBAwYI/8QALRAAAQMDAwIFAgcAAAAAAAAAAQIDBAURMQASIQYTFCJRYYEHFiNBYnGh4fD/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQEC/8QAIxEAAgECBgIDAAAAAAAAAAAAAQIDAAQFERITITFBsSJRYf/aAAwDAQACEQMRAD8A6AbQGyux4Ub29PXSK66ZVCjVGP4ghCFF3hu4Frrz740Pe6krL0Uh9ucgoF0lSVix/LOprENypwmjXCiO68EIVY/iLtyPYHgm3J51y1sLBdzcBBPj8rcIjaSYhl6B80yfp9UGKh0Y26+8h0obW2l5WQk4F8+3xrBVd56PPcRF8P2sjv5+P9m+q+k6k3CiTKD3wtuOoOB5uwFvQ3wRxo0Cy55tjTn6lpWsn5tocN3JGxfLMn1S5bMpIdPVZGqzuzBX5itsHe6rdsJQATn97DjQeZU/uSNDfElbbrJ7hYB43Af1/Oi1SjImsJjvFQbVbftNirk5OdAKOlthiXHbbT20vG173HkGnvYILUzJwVPvik4dMqSiIDurqf1JUz1TGYQnxAW9s2gc2xx6Wz8aZb1TQ2spfdb3jO886WnTJMKvtrbJUty6CpfJAsOBreyKfHmqTIeSQ4tIJ241GxBlklEKjLSBz91UA2QXf5Zk1//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -1347,6 +1347,97 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#221 Properly disconnecting from IB Gateway</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by kfiroo in <span class="repo">stoqey/ib</span></div>
+                                    <div class="comment">
+                                        Hello,
+I tested your code fragment with:
+                                        <code class="language-multiline" xml:space="preserve">import { filter, first, firstValueFrom } from "rxjs";
+import { ConnectionState, IBApiNext } from "..";
+<span class="token trimmed">(39 more lines were trimmed)</span></code>
+                                        I connect, then disconnect after 10 secs, and I've been able to seen that the client properly disconnected from the API.
+Your issue is maybe related to some other problem.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#225 Missing field in combo order causing Underrun error on COMPLETED_ORDER</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by LimePixel in <span class="repo">stoqey/ib</span></div>
+                                    <div class="comment">Hello,
+Thanks for your report.
+I've been tracking this issue for some months now. 
+Unfortunately I can't reproduce it on my setup and I've reviewing the code many times and didn't notice anything wrong.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#224 Update decoder.ts</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by icocoding in <span class="repo">stoqey/ib</span></div>
+                                    <div class="comment">
+                                        Hello,
+Thanks for your PR.
+Basically I don't understand the reason behind most of your changes; and your changes on
+                                        <code>decoder.ts</code>
+                                        hide the problem instead of fixing it. Having an exception raised when we identify inconsistent data is what we want.
+May I suggest you to update your PR?
+Thanks
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#226 Decoding error on OPEN_ORDER</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by neilwongtinpo in <span class="repo">stoqey/ib</span></div>
+                                    <div class="comment">Hello,
+Thanks for reporting.
+This error shown up when my TWS got auto updated, then disappeared and doesn't show anymore. I guess this was an IB issue.
+Could you confirm that we can close this issue?
+Thanks</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1360,74 +1451,6 @@
                                         <div class="sha">#cc526ca</div>
                                         <div class="message">Totals line added to trades by month table</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#184 TypeError: path.resolve is not a function</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by calelloa in <span class="repo">stoqey/ib</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#184 TypeError: path.resolve is not a function</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by calelloa in <span class="repo">stoqey/ib</span></div>
-                                    <div class="comment">Closed, not an Api Next issue.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#175 How to get User Account Summary with specific IB Account Number ?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by shaheem-khanzada in <span class="repo">stoqey/ib</span></div>
-                                    <div class="comment">Closed, not an Api Next issue.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#175 How to get User Account Summary with specific IB Account Number ?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by shaheem-khanzada in <span class="repo">stoqey/ib</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1698,7 +1721,7 @@ fatal error: runtime: out of memory
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Nov 2024, 01:39:08 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2024, 01:38:10 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

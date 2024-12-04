@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1732" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1487" class="large">
     <defs>
         <style/>
     </defs>
@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -227,7 +227,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="415.1688993801721" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="415.1688993801721" y="0" width="226.101792636671" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="641.2706920168431" y="0" width="153.97953403980387" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="641.2706920168431" y="0" width="153.97953403980387" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="795.250226056647" y="0" width="58.60667933976538" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="853.8569053964123" y="0" width="34.78776339702709" height="8" fill="#5B2063"/>
                     <rect mask="url(#languages-bar)" x="888.6446687934395" y="0" width="13.429919455196021" height="8" fill="#f1e05a"/>
@@ -249,7 +249,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -324,7 +324,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.46
+                            Average per day at ~0.45
                         </div>
                     </section>
                 </div>
@@ -1317,6 +1317,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1407,80 +1412,6 @@ Feel free to revert back if the issue is still alive</div>
                                 </div>
                                 <div class="details">
                                     <div>opened by ramon1911 in <span class="repo">stoqey/ib</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">cancelOrder</span>
-                                        in
-                                        <span class="repo">stoqey/ib</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">stoqey/ib</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d96948c</div>
-                                        <div class="message">Merge pull request #228 from stoqey/cancelOrder
-
-cancelOrder bug fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27a9a4b</div>
-                                        <div class="message">Changed crypto used for test suite to BTC (ETH wan't working)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de2f0d1</div>
-                                        <div class="message">reqMktData requires up te 11 secs to run</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4103da4</div>
-                                        <div class="message">getContractDetails test refactored</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba623ad</div>
-                                        <div class="message">Build fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13773d5</div>
-                                        <div class="message">orders tests refactoring</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e2fce5</div>
-                                        <div class="message">Unnecessary undefined tests removed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73bcccf</div>
-                                        <div class="message">Allow undefined for all OrderCancel properties</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f4f78f</div>
-                                        <div class="message">allow for undefined manualOrderIndicator</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fefe16</div>
-                                        <div class="message">cancelOrder bug fix</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1751,7 +1682,7 @@ fatal error: runtime: out of memory
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 01:41:18 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 01:40:57 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

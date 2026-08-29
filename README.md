@@ -9,6 +9,6 @@
 
 ### 👋 Hi there
 
-I'm Ronan-Yann Lorin, living in Paris and programming as a hobby.
+I'm Ronan-Yann Lorin, living in Brittany and programming as a hobby.
 
 ![Metrics](/github-metrics.svg)
